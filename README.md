@@ -34,4 +34,7 @@
 
   <p align="center">
     Linux for professionals</p>
+    <h1>Default Login Information</h1>
+    <p>User : minelinuxuser Password: minelinux</p>
     </br>
+    
