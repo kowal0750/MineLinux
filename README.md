@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.discordapp.com/attachments/1141843370218631340/1142212815210422342/Mine.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1141843370218631340/1142212815210422342/Mine.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">MineLinux</h3>
